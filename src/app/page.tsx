@@ -20,8 +20,8 @@ export default function Home() {
             <p className="mx-5 my-2">
               All the little details for your small,mid or large
               business/company, that are overlooked due to various difficulties
-              pertaining to budget limitations, skill level or manpower in a
-              easy manageable tool.
+              pertaining to budget limitations, skill level or manpower,fixed in
+              a easy manageable tool.
             </p>
           </section>
           <div className="flex h-auto justify-center align-top gap-4">
@@ -31,7 +31,7 @@ export default function Home() {
           </div>
         </div>
         <div className="flex-col min-h-[10vh]">
-        <FooterHome />
+          <FooterHome />
         </div>
       </div>
     </>
